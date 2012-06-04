@@ -1,0 +1,14 @@
+[nebraska]
+name=Nebraska RPMs for SL6 - $basearch
+baseurl=http://t2.unl.edu/store/repos/nebraska/6/nebraska/$basearch
+enabled=1
+gpgcheck=0
+priority=97
+
+[nebraska-debuginfo]
+name=Nebraska debuginfo RPMs for SL6 - $basearch
+baseurl=http://t2.unl.edu/store/repos/nebraska/6/nebraska/$basearch/debug
+enabled=0
+gpgcheck=0
+priority=97
+

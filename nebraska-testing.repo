@@ -1,0 +1,14 @@
+[nebraska-testing]
+name=Nebraska testing RPMs for SL5 - $basearch
+baseurl=http://t2.unl.edu/store/repos/nebraska/5/nebraska-testing/$basearch
+enabled=0
+gpgcheck=0
+priority=97
+
+[nebraska-testing-debuginfo]
+name=Nebraska testing debuginfo RPMs for SL5 - $basearch
+baseurl=http://t2.unl.edu/store/repos/nebraska/5/nebraska-testing/$basearch/debug
+enabled=0
+gpgcheck=0
+priority=97
+
